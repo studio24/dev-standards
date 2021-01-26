@@ -2,6 +2,25 @@
 
 Collection of standards followed by the team at Studio 24 for our development and technical work.
 
+## Topics
+
+* Principles
+    * Problem solving
+	* Maintainability
+    * Accessibility
+    * Security
+    * Privacy
+    * Performance
+* Standards
+    * HTML
+    * CSS
+    * JavaScript
+    * PHP
+* Git workflow
+* Testing
+* Code reviews
+* Continuous Integration (CI)
+
 ## Contributing
 
 Any Studio 24 staff member can contribute to this repo. Just create a branch, make your changes and create a Pull Request to merge changes into the main branch. Either Simon or Matt need to approve any new PR.
